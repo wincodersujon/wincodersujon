@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Sujon Biswas
-#### Full-Stack Developer
-![Full-Stack Developer](https://studio.youtube.com/channel/UC3IwQyc83zMlfFqbo5y6o9A/editing/images)
+#### Laravel Developer
 
-I'm a full-stack developer with one year of experience in the industry.Bachelor of Science in computer science,Metropolitan University,Sylhet.
+I'm a Laravel developer with one year of experience in the industry.Bachelor of Science in computer science,Metropolitan University,Sylhet.
 
 Skills: PHP LARAVEL / VUE JS / REACT JS / JS / HTML / CSS/ Tailwind CSS/ Bootstrap /mySQL 
 

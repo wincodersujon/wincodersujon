@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sujon Biswas
 #### Laravel Developer
 
-I'm a Laravel developer with one year of experience in the industry.Bachelor of Science in computer science,Metropolitan University,Sylhet.
+I'm a Laravel developer with over one year of experience in the industry.Bachelor of Science in computer science,Metropolitan University,Sylhet.
 
 Skills: PHP LARAVEL / VUE JS / REACT JS / JS / HTML / CSS/ Tailwind CSS/ Bootstrap /mySQL 
 

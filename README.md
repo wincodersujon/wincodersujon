@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Sujon Biswas
 #### Software Engineer
 
-I'm a Software Engineer(Laravel) with over two year of experience in the industry.Bachelor of Science in computer science,Metropolitan University,Sylhet.
+I'm a Software Engineer(Laravel) with over two years of experience in the industry.Bachelor of Science in Computer Science & Engineering.
 
-Skills: PHP LARAVEL / VUE JS / REACT JS / JS / HTML / CSS/ Tailwind CSS/ Bootstrap /mySQL /Cpanel
+Skills: PHP LARAVEL / VUE JS / REACT JS / JS / HTML / CSS/ Tailwind CSS/ Bootstrap /mySQL /Cpanel/ SEO
 
 - 🔭 I’m currently working on Php Laravel/Vue Js 
 - 🌱 I’m currently learning JavaScript 
